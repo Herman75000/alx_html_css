@@ -17,6 +17,10 @@ aside{
     overflow-y: auto;
 }*/
 /* Reset */
+header.logo{
+    width: 200px;
+    height: 100px;
+}
 * {
   box-sizing: border-box;
 }
@@ -125,4 +129,4 @@ thead {
   article, aside {
     margin: 0 0 15px 0;
   }
-}
+}   
